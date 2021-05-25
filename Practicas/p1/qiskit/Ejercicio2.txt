@@ -1,0 +1,6 @@
+Simuladores:
+    El simulador QuasmSimulator nos permite simular circuitos cuanticos en condiciones idelaes, tambien nos permite ejecutar multiples veces el mismo circuito para tomar medidas necesarias, es importante señalar que solo medimos los qubits de la salida y no el resto del circuito, ya que no nos aportaria nada al resultado final.
+ 
+    El similador Statevector, este simularo solo lanza una vez sola el circuito y nos muestra el estado vectorial final de la ejecucion dividido en la parte real y parte compleja.
+   
+    El simulador Unitary, este simulador no nos permite medir el qubit y tambien solo lanza una vez sola. Este backend, nos calcula la matriz de numeros complejos del circuito en forma de array de arrays, utilizando el producto tensor de toda la matriz de cada puerta a lo lardo del circuito.

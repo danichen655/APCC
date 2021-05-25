@@ -1,0 +1,4 @@
+Diferencias
+    Utilizando la computadora cuantico real de Ibmq_belen y el simulador de ruidos, obtuvimos un resultado simular.
+    El ruido, afecta al computador cuantico en los calculos, pueden hacer que los qubits se “caigan” de su estado de superposición antes de que hayan terminado de realizar su trabajo.
+    Por eso en el computador real cuantico y en el simulafor de ruidos no salen otros bits con muy baja posibilidad.

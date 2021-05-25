@@ -1,0 +1,20 @@
+Cirq:
+
+Este entorno creado por el equipo de Google que usa el lenguaje Python y se ejecutan en maquinas de Noisy Intermediate Scale Quantum(NISQ), en otras palabras, son maquinas que tiene un numero pequeños de qubits y sin errores de ruido, por lo que es recomendable para personas que no tiene mucho conocimiento de fisica cuantica. Podemos ver que la formar de representar los circuitos no es muy visible comparado con el de qiskit. Por otra parte, el simulador de Cirq solo llega al maximo de 20 Qubits.
+
+Qiskit:
+Este entorno usa el lenguaje Python tambien desarrollado por el equipo de IBM. Puede diseñar circuitos cuanticos y ejecutarlos en computadores cuanticos reales o simuladores.
+Ademas, Qiskit consta de cuatro elementos fundamentales:
+	Tierra: Herramienta necesarias para crear circuitos cuanticos.
+	Aqua: Creación de algoritmos y aplicaciones.
+	Aer: Desarrollo acelerado a través de simuladores y modelos de ruido.
+	Igni: Herramienta que configura el ruido de los simuladores.
+
+Tket:
+Este entorno tambien usa Python como su lenguaje, denominado pytket. Puede mostrarnos los bits medidos y tambien mostrarnos el circuito en forma de grafos.Por otra parte, puede usar otros entornos para ejecutar el backend y la representacion tradicional de los circuitos.
+
+ProjectQ:
+Este entorno esta mas encfocado a la notacion matematica utilizada en fisica ya que para aplicar una hadamard 0 medir sobre un Qubit utilizamos | para aplicarlo. No tiene representacion del circuito pero es un entorno mas libre comparado con el resto de entornos ya que podemos usar el lenguaje python para hacer operaciones necesarias.
+
+Forest:
+Se necesita dos terminales.

@@ -1,0 +1,2 @@
+Diferencias
+    Como vemos en los diferentes computadores cuánticos, los resultados dados son similares, aunque tenga diferentes números de qubits y de volumen de cuántico. El volumen cuántico es una métrica relacionada al rendimiento con las capacidades e índices de error de un computador cuántico, es decir, cuando mayor sea el volumen cuántico, el computador cuántico puede solucionar problemas más complejos y con más exactitud. Por lo que podemos ver una pequeña diferencia entre el volumen más pequeño (ibmq_melbourne) y el más grande(ibmq_santiago)
